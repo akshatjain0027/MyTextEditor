@@ -3,10 +3,10 @@ from tkinter import ttk
 from tkinter import font, colorchooser, filedialog, messagebox
 import os
  
+
 win= tk.Tk()
 win.title("Text Editor")
 win.geometry('1200x800')
-
 
 ############################# MENU BAR ###################################################
 #main menu
